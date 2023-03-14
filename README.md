@@ -9,3 +9,7 @@ npm install (to get node_modules)
 
 To launch Cypress:
 ./node_modules/.bin/cypress open
+
+Useful Extensions in VS:
+E56 Mocha Snippets
+Material Icon Theme
