@@ -16,7 +16,7 @@
     "url": "https://github.com/psnavya/cypress-automation-framework/issues"
   },
   "homepage": "https://github.com/psnavya/cypress-automation-framework#readme",
-  "dependencies": {
-    "cypress": "^10.7.0"
+  "devDependencies": {
+    "cypress": "^12.6.0"
   }
 }
