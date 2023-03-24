@@ -2,7 +2,7 @@
 
 ------Work in progres-----
 
-Steps to run test cases from scratch:
+Notes:
 npm init
 
 npm install --save-dev cypress@12.6.0
@@ -21,3 +21,5 @@ it. only -- to execyte a particular test case
 
 
 Chrome addon- Ranorex Selocity
+
+npm install --save-dev @cypress/xpath
