@@ -15,6 +15,7 @@ describe("Test Contact Us form via Automation Test Store",() => {
     
     // cy.get('.col-md-6 > .btn').click()
     cy.get("button[title='Submit']").click()
+    cy.get('.mb40 > :nth-child(3)').should('have.text','Your enquiry has been successfully sent to the store owner!')
     
 
 
