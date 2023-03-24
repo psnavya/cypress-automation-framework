@@ -22,4 +22,6 @@ it. only -- to execyte a particular test case
 
 Chrome addon- Ranorex Selocity
 
+Xpath support:
 npm install --save-dev @cypress/xpath
+Add require('@cypress/xpath'); in support/e2e.js file
