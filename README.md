@@ -30,3 +30,7 @@ Assertion Library- Chai
 
 Cypress headless run command:
 ./node_modules/.bin/cypress run
+
+Cypress headed run command:
+./node_modules/.bin/cypress run --headed
+./node_modules/.bin/cypress run
