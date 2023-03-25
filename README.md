@@ -38,5 +38,8 @@ Cypress headed run command:
 Chrome browser run:
 ./node_modules/.bin/cypress run --browser chrome
 
-Runa particular test:
+Run a particular test:
 ./node_modules/.bin/cypress run cypress-automation-framework/cypress/e2e/webdriver-uni/contact-us.js
+
+Run all test cases from a folder:
+./node_modules/.bin/cypress run cypress-automation-framework/cypress/e2e/webdriver-uni/**
