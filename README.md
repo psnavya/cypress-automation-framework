@@ -27,3 +27,6 @@ npm install --save-dev @cypress/xpath
 Add require('@cypress/xpath'); in support/e2e.js file
 
 Assertion Library- Chai
+
+Cypress headless run command:
+./node_modules/.bin/cypress run
