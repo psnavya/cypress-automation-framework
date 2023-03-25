@@ -34,3 +34,6 @@ Cypress headless run command:
 Cypress headed run command:
 ./node_modules/.bin/cypress run --headed
 ./node_modules/.bin/cypress run
+
+Chrome browser run:
+./node_modules/.bin/cypress run --browser chrome
