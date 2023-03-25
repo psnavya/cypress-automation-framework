@@ -16,6 +16,7 @@ To launch Cypress:
 Useful Extensions in VS:
 E56 Mocha Snippets
 Material Icon Theme
+Code Runner
 
 it. only -- to execyte a particular test case
 
