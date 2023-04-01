@@ -17,10 +17,7 @@
   },
   "homepage": "https://github.com/psnavya/cypress-automation-framework#readme",
   "devDependencies": {
-<<<<<<< HEAD
     "@cypress/xpath": "^2.0.3",
-=======
->>>>>>> 4946e4a8fb3ea8a64a13fb3cbc63a8d0107415d8
     "cypress": "^12.6.0"
   }
 }
