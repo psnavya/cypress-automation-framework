@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/psnavya/cypress-automation-framework/issues"
   },
-  "homepage": "https://github.com/psnavya/cypress-automation-framework#readme"
+  "homepage": "https://github.com/psnavya/cypress-automation-framework#readme",
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "cypress": "^12.6.0"
+  }
 }
