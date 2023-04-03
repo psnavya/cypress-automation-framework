@@ -11,10 +11,10 @@ pipeline {
                         label "remote_node1"
                     }
                     steps {
-                        git url: 'https://github.com/qauni/cypress-automation-framework.git'
-                        bat 'npm install'
-                        bat 'npm update'
-                        bat 'npm run %Script%'
+                        git url: 'https://github.com/psnavya/cypress-automation-framework.git'
+                        sh 'npm install'
+                        sh 'npm update'
+                        sh 'npm run triggerAllTests-autostore-dashboard'
                     }
                 }
                 stage('Slave Node2') {
@@ -22,10 +22,10 @@ pipeline {
                         label "remote_node2"
                     }
                     steps {
-                        git url: 'https://github.com/qauni/cypress-automation-framework.git'
-                        bat 'npm install'
-                        bat 'npm update'
-                        bat 'npm run %Script%'
+                        git url: 'https://github.com/psnavya/cypress-automation-framework.git'
+                        sh 'npm install'
+                        sh 'npm update'
+                        sh 'npm run triggerAllTests-autostore-dashboard'
                     }
                 }
             }

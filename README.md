@@ -51,3 +51,6 @@ https://jsonformatter.curiousconcept.com/#
 Jenkins Scheduler format:
 https://crontab.guru/#
 
+npx cypress open --env configFile=staging
+
+
