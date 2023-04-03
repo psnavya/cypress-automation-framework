@@ -44,3 +44,6 @@ Run a particular test:
 
 Run all test cases from a folder:
 ./node_modules/.bin/cypress run cypress-automation-framework/cypress/e2e/webdriver-uni/**
+
+JSON formatter:
+https://jsonformatter.curiousconcept.com/#
