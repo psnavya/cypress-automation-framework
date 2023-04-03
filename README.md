@@ -47,3 +47,7 @@ Run all test cases from a folder:
 
 JSON formatter:
 https://jsonformatter.curiousconcept.com/#
+
+Jenkins Scheduler format:
+https://crontab.guru/#
+
